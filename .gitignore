@@ -1,0 +1,5 @@
+*#
+*.o
+test
+sc_ls
+main
